@@ -1,0 +1,4 @@
+nemoguardrails
+python-dotenv
+chromadb
+langchain
